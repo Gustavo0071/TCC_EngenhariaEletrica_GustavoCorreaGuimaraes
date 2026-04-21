@@ -1,4 +1,4 @@
-# TCC - Engenharia Elétrica - Gustavo Corrêa Guimarães
+# Projeto e implementação de modelo de dados de inversor inteligente para sistemas fotovoltaicos
 
 Trabalho de Conclusão de Curso apresentado ao Corpo Docente do Departamento de Engenharia Elétrica da Escola de Engenharia da Universidade Federal Fluminense, como parte dos requisitos necessários à obtenção do título de Engenheiro Eletricista.
 
@@ -16,4 +16,4 @@ Citação ABNT: GUIMARÃES, Gustavo Corrêa. Projeto e implementação de modelo
 ## Arquivos do repositório
 
 * server_example_basic_io: exemplo teste modificado da libIEC61850 (https://github.com/mz-automation/libiec61850) para testar a comunicação do protocolo MMS.
-* Arquivos_ICD: Arquivos ICDs criados durante o projeto. Mais explicações no arquivo PDF.
+* Arquivos_SCL: Arquivos em SCL criados durante o projeto. Mais explicações no arquivo PDF.
